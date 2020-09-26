@@ -1,3 +1,3 @@
 TCC - Trabalho de conclusão
 
-Aqui contem as documentações, imagens e codigos do TCC.
+Aqui contem as documentações, imagens do TCC.
